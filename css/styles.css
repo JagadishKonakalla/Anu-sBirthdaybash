@@ -98,18 +98,12 @@ p {
 
 #spin {
   position: absolute;
-  top: 50%;
+  top: 63%;
   left: 50%;
   transform: translate(-50%, -50%);
+  background-color: #ffeedb;
   z-index: 10;
-  background-color: #e2e2e2;
-  text-transform: uppercase;
-  border: 8px solid #fff;
-  color: #a2a2a2;
-  width: 40px;
-  height: 40px;
+  width: 30px;
+  height: 30px;
   border-radius: 50%;
-  cursor: pointer;
-  outline: none;
-  letter-spacing: 1px;
 }
