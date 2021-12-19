@@ -19,7 +19,7 @@ body {
   background-color: #ccc;
   border-radius: 50%;
   border: 15px solid #dde;
-  position: absolute;
+  position: relative;
   overflow: hidden;
   transition: 5s;
 }
@@ -104,12 +104,9 @@ p {
   background-color: #e2e2e2;
   text-transform: uppercase;
   border: 8px solid #fff;
-  font-weight: bold;
-  font-size: 20px;
   color: #a2a2a2;
   width: 40px;
   height: 40px;
-  font-family: sans-serif;
   border-radius: 50%;
   cursor: pointer;
   outline: none;
